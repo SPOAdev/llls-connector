@@ -1,0 +1,34 @@
+# Composer
+/vendor/
+/composer.lock
+
+# PHPStorm / IDEs
+/.idea/
+/*.iml
+
+# Mac OS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Icon?
+
+# Logs
+*.log
+
+# Cache
+/.phpunit.result.cache
+
+# Vscode
+/.vscode/
+
+# Coverage
+/coverage/
+.clover
+.phpunit.cache
+
+# Other
+*.bak
+*.tmp
+*.swp

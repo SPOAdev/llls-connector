@@ -1,0 +1,19 @@
+{
+    "name": "spoadev/llls-connector",
+    "description": "Light License Laravel Server Connector for PHP clients",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Llls\\Connector\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=7.4"
+    },
+    "suggest": {
+        "guzzlehttp/guzzle": "Required for better HTTP request handling."
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true
+}
