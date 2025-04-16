@@ -50,9 +50,10 @@ composer require guzzlehttp/guzzle
 ## Requirements
 - PHP 7.4 or higher
 - Laravel, WordPress, Symfony, or any PHP environment
-- 
+
 ## Version
 **1.0.0** — Initial release
+
 ## Changelog
 ### 1.0.0 (04/15/2025)
 - Initial release
